@@ -430,11 +430,6 @@ def main():
             last_report_time = current_time
             emotion_history = []
         
-        # Display time until next report
-        time_remaining = max(0, 30 - (current_time - last_report_time))
-        cv2.putText(display_frame, f"Next report in: {time_remaining:.0f}s", (10, 60), 
-                    cv2.FONT_HERSHEY_SIMPLEX, 0.7, (255, 255, 255), 2)
-        
         # Display current emotion at the top
         cv2.putText(display_frame, f"Current: {current_emotion} ({current_confidence:.1f}%)", (10, 30), 
                     cv2.FONT_HERSHEY_SIMPLEX, 0.7, (255, 255, 255), 2)
@@ -443,9 +438,7 @@ def main():
         cv2.putText(display_frame, "Press 'q' to quit", (10, 90), 
                     cv2.FONT_HERSHEY_SIMPLEX, 0.7, (255, 255, 255), 2)
         
-        # Show threshold parameters
-        cv2.putText(display_frame, "Eye Tracking Threshold: 15°", (10, 120), 
-                    cv2.FONT_HERSHEY_SIMPLEX, 0.7, (255, 255, 255), 2)
+        
         
         # Display main frame and eye tracking details
         cv2.imshow("Face Emotion and Eye Direction Detection", display_frame)
