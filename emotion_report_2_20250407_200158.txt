@@ -1,0 +1,1266 @@
+EMOTION AND GAZE REPORT #2
+==================================================
+
+EMOTIONAL TIMELINE:
+20:01:33.222 (5.1s): angry (60.0%)
+20:01:33.255 (5.2s): angry (60.0%)
+20:01:35.264 (7.2s): angry (60.0%)
+20:01:35.296 (7.2s): angry (60.0%)
+20:01:35.342 (7.3s): angry (60.0%)
+20:01:35.375 (7.3s): angry (60.0%)
+20:01:35.405 (7.3s): angry (60.0%)
+20:01:35.439 (7.4s): angry (60.0%)
+20:01:35.470 (7.4s): angry (60.0%)
+20:01:35.500 (7.4s): angry (60.0%)
+20:01:35.530 (7.5s): angry (60.0%)
+20:01:35.561 (7.5s): angry (60.0%)
+20:01:35.842 (7.8s): angry (60.0%)
+20:01:35.889 (7.8s): angry (60.0%)
+20:01:35.920 (7.9s): angry (60.0%)
+20:01:35.999 (7.9s): angry (60.0%)
+20:01:36.465 (8.4s): angry (60.0%)
+20:01:36.497 (8.4s): angry (60.0%)
+20:01:36.545 (8.5s): angry (60.0%)
+20:01:36.575 (8.5s): angry (60.0%)
+20:01:36.606 (8.5s): angry (60.0%)
+20:01:36.638 (8.6s): angry (60.0%)
+20:01:36.670 (8.6s): angry (60.0%)
+20:01:36.703 (8.6s): angry (60.0%)
+20:01:36.733 (8.7s): angry (60.0%)
+20:01:36.763 (8.7s): angry (60.0%)
+20:01:36.796 (8.7s): angry (60.0%)
+20:01:36.825 (8.8s): angry (60.0%)
+20:01:37.043 (9.0s): angry (60.0%)
+20:01:37.075 (9.0s): angry (60.0%)
+20:01:37.105 (9.0s): angry (60.0%)
+20:01:37.135 (9.1s): angry (60.0%)
+20:01:37.167 (9.1s): angry (60.0%)
+20:01:37.199 (9.1s): angry (60.0%)
+20:01:37.387 (9.3s): angry (60.0%)
+20:01:37.416 (9.4s): angry (60.0%)
+20:01:38.070 (10.0s): angry (60.0%)
+20:01:38.103 (10.0s): angry (60.0%)
+20:01:38.464 (10.4s): angry (60.0%)
+20:01:38.494 (10.4s): angry (60.0%)
+20:01:38.571 (10.5s): angry (60.0%)
+20:01:38.601 (10.5s): angry (60.0%)
+20:01:38.633 (10.6s): angry (60.0%)
+20:01:38.664 (10.6s): angry (60.0%)
+20:01:38.695 (10.6s): angry (60.0%)
+20:01:38.727 (10.7s): angry (60.0%)
+20:01:38.759 (10.7s): angry (60.0%)
+20:01:38.806 (10.7s): angry (60.0%)
+20:01:38.836 (10.8s): angry (60.0%)
+20:01:38.867 (10.8s): angry (60.0%)
+20:01:38.898 (10.8s): angry (60.0%)
+20:01:38.946 (10.9s): angry (60.0%)
+20:01:38.978 (10.9s): angry (60.0%)
+20:01:39.008 (10.9s): angry (60.0%)
+20:01:39.039 (11.0s): angry (60.0%)
+20:01:39.070 (11.0s): angry (60.0%)
+20:01:39.103 (11.0s): angry (60.0%)
+20:01:39.133 (11.1s): angry (60.0%)
+20:01:39.165 (11.1s): angry (60.0%)
+20:01:39.195 (11.1s): angry (60.0%)
+20:01:39.226 (11.2s): angry (60.0%)
+20:01:39.258 (11.2s): angry (60.0%)
+20:01:39.290 (11.2s): angry (60.0%)
+20:01:39.337 (11.3s): angry (60.0%)
+20:01:39.367 (11.3s): angry (60.0%)
+20:01:39.398 (11.3s): angry (60.0%)
+20:01:39.430 (11.4s): angry (60.0%)
+20:01:39.492 (11.4s): angry (60.0%)
+20:01:39.523 (11.5s): angry (60.0%)
+20:01:39.632 (11.6s): angry (60.0%)
+20:01:39.976 (11.9s): angry (60.0%)
+20:01:40.037 (12.0s): angry (60.0%)
+20:01:40.069 (12.0s): angry (60.0%)
+20:01:40.101 (12.0s): angry (60.0%)
+20:01:40.147 (12.1s): angry (60.0%)
+20:01:40.257 (12.2s): angry (60.0%)
+20:01:40.663 (12.6s): angry (60.0%)
+20:01:40.693 (12.6s): angry (60.0%)
+20:01:40.769 (12.7s): angry (60.0%)
+20:01:40.942 (12.9s): angry (60.0%)
+20:01:41.161 (13.1s): angry (60.0%)
+20:01:42.036 (14.0s): angry (60.0%)
+20:01:42.066 (14.0s): angry (60.0%)
+20:01:42.097 (14.0s): angry (60.0%)
+20:01:42.144 (14.1s): angry (60.0%)
+20:01:42.176 (14.1s): angry (60.0%)
+20:01:42.190 (14.1s): angry (60.0%)
+20:01:42.223 (14.2s): angry (60.0%)
+20:01:42.254 (14.2s): sad (70.0%)
+20:01:42.285 (14.2s): sad (70.0%)
+20:01:42.332 (14.3s): sad (70.0%)
+20:01:42.379 (14.3s): sad (70.0%)
+20:01:42.411 (14.3s): sad (70.0%)
+20:01:42.441 (14.4s): sad (70.0%)
+20:01:42.472 (14.4s): sad (70.0%)
+20:01:42.503 (14.4s): sad (70.0%)
+20:01:42.551 (14.5s): sad (70.0%)
+20:01:42.582 (14.5s): sad (70.0%)
+20:01:42.613 (14.5s): sad (70.0%)
+20:01:42.643 (14.6s): sad (70.0%)
+20:01:42.674 (14.6s): sad (70.0%)
+20:01:42.705 (14.6s): sad (70.0%)
+20:01:42.738 (14.7s): sad (70.0%)
+20:01:42.782 (14.7s): sad (70.0%)
+20:01:42.813 (14.7s): sad (70.0%)
+20:01:42.858 (14.8s): sad (70.0%)
+20:01:42.891 (14.8s): sad (70.0%)
+20:01:42.922 (14.9s): sad (70.0%)
+20:01:42.968 (14.9s): sad (70.0%)
+20:01:43.014 (14.9s): sad (70.0%)
+20:01:43.062 (15.0s): sad (70.0%)
+20:01:43.106 (15.0s): sad (70.0%)
+20:01:43.138 (15.1s): sad (70.0%)
+20:01:43.170 (15.1s): sad (70.0%)
+20:01:43.202 (15.1s): sad (70.0%)
+20:01:43.233 (15.2s): sad (70.0%)
+20:01:43.264 (15.2s): sad (70.0%)
+20:01:43.311 (15.2s): sad (70.0%)
+20:01:43.344 (15.3s): sad (70.0%)
+20:01:43.391 (15.3s): sad (70.0%)
+20:01:43.421 (15.3s): sad (70.0%)
+20:01:43.453 (15.4s): sad (70.0%)
+20:01:43.484 (15.4s): sad (70.0%)
+20:01:43.530 (15.5s): sad (70.0%)
+20:01:43.563 (15.5s): sad (70.0%)
+20:01:43.592 (15.5s): sad (70.0%)
+20:01:43.624 (15.6s): sad (70.0%)
+20:01:43.670 (15.6s): sad (70.0%)
+20:01:43.703 (15.6s): sad (70.0%)
+20:01:43.749 (15.7s): sad (70.0%)
+20:01:43.781 (15.7s): sad (70.0%)
+20:01:43.813 (15.7s): sad (70.0%)
+20:01:43.860 (15.8s): sad (70.0%)
+20:01:43.905 (15.8s): sad (70.0%)
+20:01:43.936 (15.9s): sad (70.0%)
+20:01:43.969 (15.9s): sad (70.0%)
+20:01:43.999 (15.9s): sad (70.0%)
+20:01:44.029 (16.0s): sad (70.0%)
+20:01:44.063 (16.0s): sad (70.0%)
+20:01:44.092 (16.0s): sad (70.0%)
+20:01:44.124 (16.1s): sad (70.0%)
+20:01:44.155 (16.1s): sad (70.0%)
+20:01:44.186 (16.1s): sad (70.0%)
+20:01:44.216 (16.1s): sad (70.0%)
+20:01:44.247 (16.2s): angry (60.0%)
+20:01:44.278 (16.2s): angry (60.0%)
+20:01:44.308 (16.2s): angry (60.0%)
+20:01:44.339 (16.3s): angry (60.0%)
+20:01:44.371 (16.3s): angry (60.0%)
+20:01:44.403 (16.3s): angry (60.0%)
+20:01:44.435 (16.4s): angry (60.0%)
+20:01:44.466 (16.4s): sad (70.0%)
+20:01:44.496 (16.4s): sad (70.0%)
+20:01:44.543 (16.5s): sad (70.0%)
+20:01:44.574 (16.5s): surprise (75.0%)
+20:01:44.606 (16.5s): sad (70.0%)
+20:01:44.636 (16.6s): sad (70.0%)
+20:01:44.668 (16.6s): sad (70.0%)
+20:01:44.699 (16.6s): sad (70.0%)
+20:01:44.730 (16.7s): sad (70.0%)
+20:01:44.762 (16.7s): sad (70.0%)
+20:01:44.811 (16.7s): sad (70.0%)
+20:01:44.859 (16.8s): sad (70.0%)
+20:01:44.906 (16.8s): sad (70.0%)
+20:01:44.936 (16.9s): sad (70.0%)
+20:01:44.983 (16.9s): sad (70.0%)
+20:01:45.015 (16.9s): sad (70.0%)
+20:01:45.061 (17.0s): sad (70.0%)
+20:01:45.107 (17.0s): sad (70.0%)
+20:01:45.153 (17.1s): sad (70.0%)
+20:01:45.200 (17.1s): sad (70.0%)
+20:01:45.247 (17.2s): sad (70.0%)
+20:01:45.278 (17.2s): sad (70.0%)
+20:01:45.326 (17.3s): sad (70.0%)
+20:01:45.372 (17.3s): sad (70.0%)
+20:01:45.420 (17.3s): sad (70.0%)
+20:01:45.468 (17.4s): sad (70.0%)
+20:01:45.514 (17.4s): sad (70.0%)
+20:01:45.559 (17.5s): sad (70.0%)
+20:01:45.592 (17.5s): sad (70.0%)
+20:01:45.622 (17.6s): sad (70.0%)
+20:01:45.668 (17.6s): sad (70.0%)
+20:01:45.715 (17.6s): sad (70.0%)
+20:01:45.748 (17.7s): sad (70.0%)
+20:01:45.794 (17.7s): sad (70.0%)
+20:01:45.841 (17.8s): sad (70.0%)
+20:01:45.888 (17.8s): sad (70.0%)
+20:01:45.920 (17.8s): sad (70.0%)
+20:01:45.967 (17.9s): sad (70.0%)
+20:01:46.013 (17.9s): sad (70.0%)
+20:01:46.061 (18.0s): sad (70.0%)
+20:01:46.109 (18.0s): sad (70.0%)
+20:01:46.141 (18.1s): sad (70.0%)
+20:01:46.188 (18.1s): sad (70.0%)
+20:01:46.219 (18.1s): sad (70.0%)
+20:01:46.250 (18.2s): sad (70.0%)
+20:01:46.295 (18.2s): sad (70.0%)
+20:01:46.343 (18.3s): sad (70.0%)
+20:01:46.390 (18.3s): sad (70.0%)
+20:01:46.434 (18.4s): sad (70.0%)
+20:01:46.482 (18.4s): sad (70.0%)
+20:01:46.527 (18.5s): sad (70.0%)
+20:01:46.559 (18.5s): sad (70.0%)
+20:01:46.606 (18.5s): sad (70.0%)
+20:01:46.638 (18.6s): sad (70.0%)
+20:01:46.683 (18.6s): sad (70.0%)
+20:01:46.730 (18.7s): sad (70.0%)
+20:01:46.763 (18.7s): sad (70.0%)
+20:01:46.809 (18.7s): sad (70.0%)
+20:01:46.856 (18.8s): sad (70.0%)
+20:01:46.903 (18.8s): sad (70.0%)
+20:01:46.935 (18.9s): sad (70.0%)
+20:01:46.981 (18.9s): sad (70.0%)
+20:01:47.027 (19.0s): sad (70.0%)
+20:01:47.058 (19.0s): sad (70.0%)
+20:01:47.106 (19.0s): sad (70.0%)
+20:01:47.153 (19.1s): sad (70.0%)
+20:01:47.199 (19.1s): sad (70.0%)
+20:01:47.245 (19.2s): sad (70.0%)
+20:01:47.276 (19.2s): sad (70.0%)
+20:01:47.308 (19.2s): sad (70.0%)
+20:01:47.353 (19.3s): sad (70.0%)
+20:01:47.400 (19.3s): sad (70.0%)
+20:01:47.446 (19.4s): sad (70.0%)
+20:01:47.493 (19.4s): sad (70.0%)
+20:01:47.523 (19.5s): sad (70.0%)
+20:01:47.569 (19.5s): sad (70.0%)
+20:01:47.616 (19.5s): sad (70.0%)
+20:01:47.662 (19.6s): sad (70.0%)
+20:01:47.709 (19.6s): sad (70.0%)
+20:01:47.757 (19.7s): sad (70.0%)
+20:01:47.804 (19.7s): sad (70.0%)
+20:01:47.835 (19.8s): sad (70.0%)
+20:01:47.884 (19.8s): sad (70.0%)
+20:01:47.930 (19.9s): angry (60.0%)
+20:01:47.964 (19.9s): sad (70.0%)
+20:01:48.012 (19.9s): sad (70.0%)
+20:01:48.056 (20.0s): sad (70.0%)
+20:01:48.087 (20.0s): sad (70.0%)
+20:01:48.119 (20.0s): sad (70.0%)
+20:01:48.166 (20.1s): sad (70.0%)
+20:01:48.213 (20.1s): sad (70.0%)
+20:01:48.258 (20.2s): sad (70.0%)
+20:01:48.290 (20.2s): sad (70.0%)
+20:01:48.335 (20.3s): sad (70.0%)
+20:01:48.368 (20.3s): sad (70.0%)
+20:01:48.416 (20.3s): sad (70.0%)
+20:01:48.461 (20.4s): sad (70.0%)
+20:01:48.493 (20.4s): sad (70.0%)
+20:01:48.524 (20.5s): sad (70.0%)
+20:01:48.570 (20.5s): sad (70.0%)
+20:01:48.603 (20.5s): sad (70.0%)
+20:01:48.636 (20.6s): sad (70.0%)
+20:01:48.672 (20.6s): sad (70.0%)
+20:01:48.701 (20.6s): sad (70.0%)
+20:01:48.750 (20.7s): sad (70.0%)
+20:01:48.775 (20.7s): sad (70.0%)
+20:01:48.807 (20.7s): sad (70.0%)
+20:01:48.822 (20.8s): sad (70.0%)
+20:01:48.862 (20.8s): sad (70.0%)
+20:01:48.889 (20.8s): sad (70.0%)
+20:01:48.928 (20.9s): sad (70.0%)
+20:01:48.958 (20.9s): sad (70.0%)
+20:01:48.988 (20.9s): sad (70.0%)
+20:01:49.040 (21.0s): sad (70.0%)
+20:01:49.072 (21.0s): sad (70.0%)
+20:01:49.102 (21.0s): sad (70.0%)
+20:01:49.152 (21.1s): sad (70.0%)
+20:01:49.181 (21.1s): sad (70.0%)
+20:01:49.213 (21.1s): sad (70.0%)
+20:01:49.244 (21.2s): sad (70.0%)
+20:01:49.277 (21.2s): sad (70.0%)
+20:01:49.308 (21.2s): sad (70.0%)
+20:01:49.339 (21.3s): sad (70.0%)
+20:01:49.372 (21.3s): sad (70.0%)
+20:01:49.391 (21.3s): sad (70.0%)
+20:01:49.440 (21.4s): angry (60.0%)
+20:01:49.471 (21.4s): angry (60.0%)
+20:01:49.693 (21.6s): sad (70.0%)
+20:01:49.723 (21.7s): sad (70.0%)
+20:01:49.754 (21.7s): sad (70.0%)
+20:01:49.794 (21.7s): sad (70.0%)
+20:01:49.840 (21.8s): sad (70.0%)
+20:01:49.869 (21.8s): sad (70.0%)
+20:01:49.899 (21.8s): sad (70.0%)
+20:01:49.936 (21.9s): sad (70.0%)
+20:01:49.965 (21.9s): sad (70.0%)
+20:01:49.992 (21.9s): sad (70.0%)
+20:01:50.025 (22.0s): sad (70.0%)
+20:01:50.057 (22.0s): sad (70.0%)
+20:01:50.097 (22.0s): sad (70.0%)
+20:01:50.128 (22.1s): sad (70.0%)
+20:01:50.157 (22.1s): sad (70.0%)
+20:01:50.193 (22.1s): sad (70.0%)
+20:01:50.222 (22.1s): sad (70.0%)
+20:01:50.274 (22.2s): sad (70.0%)
+20:01:50.307 (22.2s): sad (70.0%)
+20:01:50.338 (22.3s): sad (70.0%)
+20:01:50.370 (22.3s): sad (70.0%)
+20:01:50.401 (22.3s): sad (70.0%)
+20:01:50.446 (22.4s): sad (70.0%)
+20:01:50.480 (22.4s): sad (70.0%)
+20:01:50.511 (22.4s): sad (70.0%)
+20:01:50.543 (22.5s): sad (70.0%)
+20:01:50.575 (22.5s): sad (70.0%)
+20:01:50.592 (22.5s): sad (70.0%)
+20:01:50.621 (22.5s): sad (70.0%)
+20:01:50.667 (22.6s): sad (70.0%)
+20:01:50.703 (22.6s): sad (70.0%)
+20:01:50.731 (22.7s): sad (70.0%)
+20:01:50.766 (22.7s): sad (70.0%)
+20:01:50.796 (22.7s): sad (70.0%)
+20:01:50.846 (22.8s): sad (70.0%)
+20:01:50.868 (22.8s): sad (70.0%)
+20:01:50.899 (22.8s): sad (70.0%)
+20:01:50.930 (22.9s): sad (70.0%)
+20:01:50.965 (22.9s): sad (70.0%)
+20:01:50.996 (22.9s): sad (70.0%)
+20:01:51.024 (23.0s): sad (70.0%)
+20:01:51.070 (23.0s): sad (70.0%)
+20:01:51.106 (23.0s): sad (70.0%)
+20:01:51.137 (23.1s): sad (70.0%)
+20:01:51.164 (23.1s): sad (70.0%)
+20:01:51.203 (23.1s): sad (70.0%)
+20:01:51.245 (23.2s): sad (70.0%)
+20:01:51.276 (23.2s): sad (70.0%)
+20:01:51.308 (23.2s): sad (70.0%)
+20:01:51.337 (23.3s): sad (70.0%)
+20:01:51.371 (23.3s): sad (70.0%)
+20:01:51.403 (23.3s): sad (70.0%)
+20:01:51.432 (23.4s): sad (70.0%)
+20:01:51.471 (23.4s): sad (70.0%)
+20:01:51.506 (23.4s): sad (70.0%)
+20:01:51.541 (23.5s): sad (70.0%)
+20:01:51.572 (23.5s): sad (70.0%)
+20:01:51.604 (23.5s): sad (70.0%)
+20:01:51.647 (23.6s): sad (70.0%)
+20:01:51.681 (23.6s): sad (70.0%)
+20:01:51.712 (23.6s): sad (70.0%)
+20:01:51.743 (23.7s): sad (70.0%)
+20:01:51.775 (23.7s): sad (70.0%)
+20:01:51.803 (23.7s): sad (70.0%)
+20:01:51.835 (23.8s): sad (70.0%)
+20:01:51.872 (23.8s): sad (70.0%)
+20:01:51.902 (23.8s): sad (70.0%)
+20:01:51.931 (23.9s): sad (70.0%)
+20:01:51.959 (23.9s): sad (70.0%)
+20:01:51.983 (23.9s): sad (70.0%)
+20:01:52.010 (23.9s): sad (70.0%)
+20:01:52.047 (24.0s): sad (70.0%)
+20:01:52.091 (24.0s): sad (70.0%)
+20:01:52.127 (24.1s): sad (70.0%)
+20:01:52.157 (24.1s): sad (70.0%)
+20:01:52.191 (24.1s): sad (70.0%)
+20:01:52.239 (24.2s): sad (70.0%)
+20:01:52.271 (24.2s): sad (70.0%)
+20:01:52.304 (24.2s): sad (70.0%)
+20:01:52.336 (24.3s): sad (70.0%)
+20:01:52.366 (24.3s): sad (70.0%)
+20:01:52.398 (24.3s): sad (70.0%)
+20:01:52.431 (24.4s): sad (70.0%)
+20:01:52.461 (24.4s): sad (70.0%)
+20:01:52.499 (24.4s): sad (70.0%)
+20:01:52.526 (24.5s): sad (70.0%)
+20:01:52.573 (24.5s): sad (70.0%)
+20:01:52.605 (24.5s): sad (70.0%)
+20:01:52.637 (24.6s): sad (70.0%)
+20:01:52.687 (24.6s): sad (70.0%)
+20:01:52.709 (24.6s): sad (70.0%)
+20:01:52.742 (24.7s): sad (70.0%)
+20:01:52.772 (24.7s): sad (70.0%)
+20:01:52.803 (24.7s): sad (70.0%)
+20:01:52.834 (24.8s): sad (70.0%)
+20:01:52.866 (24.8s): sad (70.0%)
+20:01:52.896 (24.8s): sad (70.0%)
+20:01:52.939 (24.9s): sad (70.0%)
+20:01:52.975 (24.9s): sad (70.0%)
+20:01:53.008 (24.9s): sad (70.0%)
+20:01:53.039 (25.0s): sad (70.0%)
+20:01:53.056 (25.0s): sad (70.0%)
+20:01:53.087 (25.0s): sad (70.0%)
+20:01:53.131 (25.1s): sad (70.0%)
+20:01:53.164 (25.1s): sad (70.0%)
+20:01:53.201 (25.1s): sad (70.0%)
+20:01:53.230 (25.2s): sad (70.0%)
+20:01:53.261 (25.2s): sad (70.0%)
+20:01:53.288 (25.2s): sad (70.0%)
+20:01:53.342 (25.3s): sad (70.0%)
+20:01:53.378 (25.3s): sad (70.0%)
+20:01:53.401 (25.3s): sad (70.0%)
+20:01:53.433 (25.4s): sad (70.0%)
+20:01:53.463 (25.4s): sad (70.0%)
+20:01:53.503 (25.4s): sad (70.0%)
+20:01:53.535 (25.5s): sad (70.0%)
+20:01:53.571 (25.5s): sad (70.0%)
+20:01:53.605 (25.5s): sad (70.0%)
+20:01:53.647 (25.6s): sad (70.0%)
+20:01:53.681 (25.6s): sad (70.0%)
+20:01:53.712 (25.6s): sad (70.0%)
+20:01:53.745 (25.7s): sad (70.0%)
+20:01:53.773 (25.7s): sad (70.0%)
+20:01:53.806 (25.7s): sad (70.0%)
+20:01:53.836 (25.8s): sad (70.0%)
+20:01:53.874 (25.8s): sad (70.0%)
+20:01:53.903 (25.8s): sad (70.0%)
+20:01:53.940 (25.9s): sad (70.0%)
+20:01:53.969 (25.9s): sad (70.0%)
+20:01:53.998 (25.9s): sad (70.0%)
+20:01:54.024 (25.9s): sad (70.0%)
+20:01:54.055 (26.0s): sad (70.0%)
+20:01:54.086 (26.0s): sad (70.0%)
+20:01:54.116 (26.0s): sad (70.0%)
+20:01:54.160 (26.1s): sad (70.0%)
+20:01:54.193 (26.1s): sad (70.0%)
+20:01:54.224 (26.2s): sad (70.0%)
+20:01:54.258 (26.2s): sad (70.0%)
+20:01:54.302 (26.2s): sad (70.0%)
+20:01:54.338 (26.3s): sad (70.0%)
+20:01:54.366 (26.3s): sad (70.0%)
+20:01:54.396 (26.3s): sad (70.0%)
+20:01:54.428 (26.4s): sad (70.0%)
+20:01:54.446 (26.4s): sad (70.0%)
+20:01:54.477 (26.4s): surprise (75.0%)
+20:01:54.513 (26.4s): sad (70.0%)
+20:01:54.558 (26.5s): surprise (75.0%)
+20:01:54.595 (26.5s): surprise (75.0%)
+20:01:54.625 (26.5s): sad (70.0%)
+20:01:54.676 (26.6s): sad (70.0%)
+20:01:54.705 (26.6s): sad (70.0%)
+20:01:54.734 (26.7s): sad (70.0%)
+20:01:54.770 (26.7s): sad (70.0%)
+20:01:54.800 (26.7s): sad (70.0%)
+20:01:54.825 (26.8s): sad (70.0%)
+20:01:54.854 (26.8s): sad (70.0%)
+20:01:54.884 (26.8s): sad (70.0%)
+20:01:54.915 (26.8s): sad (70.0%)
+20:01:54.956 (26.9s): sad (70.0%)
+20:01:54.986 (26.9s): sad (70.0%)
+20:01:55.023 (27.0s): sad (70.0%)
+20:01:55.066 (27.0s): angry (60.0%)
+20:01:55.103 (27.0s): angry (60.0%)
+20:01:55.135 (27.1s): angry (60.0%)
+20:01:55.164 (27.1s): angry (60.0%)
+20:01:55.198 (27.1s): angry (60.0%)
+20:01:55.225 (27.2s): angry (60.0%)
+20:01:55.243 (27.2s): angry (60.0%)
+20:01:55.280 (27.2s): angry (60.0%)
+20:01:55.308 (27.2s): angry (60.0%)
+20:01:55.359 (27.3s): angry (60.0%)
+20:01:55.389 (27.3s): angry (60.0%)
+20:01:55.423 (27.4s): angry (60.0%)
+20:01:55.467 (27.4s): sad (70.0%)
+20:01:55.506 (27.4s): sad (70.0%)
+20:01:55.536 (27.5s): sad (70.0%)
+20:01:55.567 (27.5s): sad (70.0%)
+20:01:55.603 (27.5s): sad (70.0%)
+20:01:55.635 (27.6s): sad (70.0%)
+20:01:55.668 (27.6s): sad (70.0%)
+20:01:55.699 (27.6s): sad (70.0%)
+20:01:55.729 (27.7s): sad (70.0%)
+20:01:55.761 (27.7s): sad (70.0%)
+20:01:55.793 (27.7s): sad (70.0%)
+20:01:55.826 (27.8s): sad (70.0%)
+20:01:55.870 (27.8s): sad (70.0%)
+20:01:55.905 (27.8s): sad (70.0%)
+20:01:55.937 (27.9s): sad (70.0%)
+20:01:55.966 (27.9s): surprise (75.0%)
+20:01:56.002 (27.9s): surprise (75.0%)
+20:01:56.027 (28.0s): surprise (75.0%)
+20:01:56.056 (28.0s): surprise (75.0%)
+20:01:56.085 (28.0s): surprise (75.0%)
+20:01:56.118 (28.0s): surprise (75.0%)
+20:01:56.157 (28.1s): surprise (75.0%)
+20:01:56.191 (28.1s): surprise (75.0%)
+20:01:56.221 (28.2s): surprise (75.0%)
+20:01:56.270 (28.2s): surprise (75.0%)
+20:01:56.301 (28.2s): surprise (75.0%)
+20:01:56.332 (28.3s): surprise (75.0%)
+20:01:56.362 (28.3s): surprise (75.0%)
+20:01:56.397 (28.3s): surprise (75.0%)
+20:01:56.444 (28.4s): surprise (75.0%)
+20:01:56.461 (28.4s): surprise (75.0%)
+20:01:56.493 (28.4s): surprise (75.0%)
+20:01:56.510 (28.4s): surprise (75.0%)
+20:01:56.558 (28.5s): surprise (75.0%)
+20:01:56.588 (28.5s): surprise (75.0%)
+20:01:56.622 (28.6s): surprise (75.0%)
+20:01:56.653 (28.6s): surprise (75.0%)
+20:01:56.699 (28.6s): surprise (75.0%)
+20:01:56.736 (28.7s): surprise (75.0%)
+20:01:56.765 (28.7s): surprise (75.0%)
+20:01:56.794 (28.7s): surprise (75.0%)
+20:01:56.819 (28.7s): surprise (75.0%)
+20:01:56.850 (28.8s): surprise (75.0%)
+20:01:56.883 (28.8s): surprise (75.0%)
+20:01:56.915 (28.8s): surprise (75.0%)
+20:01:56.955 (28.9s): surprise (75.0%)
+20:01:56.988 (28.9s): surprise (75.0%)
+20:01:57.023 (29.0s): surprise (75.0%)
+20:01:57.067 (29.0s): surprise (75.0%)
+20:01:57.104 (29.0s): surprise (75.0%)
+20:01:57.134 (29.1s): surprise (75.0%)
+20:01:57.162 (29.1s): surprise (75.0%)
+20:01:57.199 (29.1s): surprise (75.0%)
+20:01:57.224 (29.2s): surprise (75.0%)
+20:01:57.256 (29.2s): surprise (75.0%)
+20:01:57.280 (29.2s): surprise (75.0%)
+20:01:57.307 (29.2s): surprise (75.0%)
+20:01:57.360 (29.3s): surprise (75.0%)
+20:01:57.388 (29.3s): surprise (75.0%)
+20:01:57.418 (29.3s): surprise (75.0%)
+20:01:57.470 (29.4s): surprise (75.0%)
+20:01:57.499 (29.4s): surprise (75.0%)
+20:01:57.536 (29.5s): surprise (75.0%)
+20:01:57.567 (29.5s): surprise (75.0%)
+20:01:57.594 (29.5s): surprise (75.0%)
+20:01:57.614 (29.5s): surprise (75.0%)
+20:01:57.647 (29.6s): surprise (75.0%)
+20:01:57.680 (29.6s): surprise (75.0%)
+20:01:57.709 (29.6s): surprise (75.0%)
+20:01:57.758 (29.7s): surprise (75.0%)
+20:01:57.790 (29.7s): surprise (75.0%)
+20:01:57.820 (29.7s): surprise (75.0%)
+20:01:57.872 (29.8s): surprise (75.0%)
+20:01:57.903 (29.8s): surprise (75.0%)
+20:01:57.932 (29.9s): surprise (75.0%)
+20:01:57.970 (29.9s): surprise (75.0%)
+20:01:58.000 (29.9s): surprise (75.0%)
+20:01:58.028 (30.0s): surprise (75.0%)
+20:01:58.047 (30.0s): surprise (75.0%)
+
+GAZE TIMELINE:
+20:01:28.063 (30.0s): no face detected
+20:01:28.094 (0.0s): no face detected
+20:01:28.139 (0.1s): no face detected
+20:01:28.169 (0.1s): no face detected
+20:01:28.202 (0.1s): no face detected
+20:01:28.232 (0.2s): no face detected
+20:01:28.264 (0.2s): no face detected
+20:01:28.296 (0.2s): no face detected
+20:01:28.328 (0.3s): no face detected
+20:01:28.358 (0.3s): no face detected
+20:01:28.390 (0.3s): no face detected
+20:01:28.419 (0.4s): no face detected
+20:01:28.467 (0.4s): no face detected
+20:01:28.498 (0.4s): no face detected
+20:01:28.545 (0.5s): no face detected
+20:01:28.578 (0.5s): no face detected
+20:01:28.610 (0.5s): no face detected
+20:01:28.641 (0.6s): no face detected
+20:01:28.657 (0.6s): no face detected
+20:01:28.704 (0.6s): no face detected
+20:01:28.735 (0.7s): no face detected
+20:01:28.767 (0.7s): no face detected
+20:01:28.797 (0.7s): no face detected
+20:01:28.828 (0.8s): no face detected
+20:01:28.859 (0.8s): no face detected
+20:01:28.892 (0.8s): no face detected
+20:01:28.922 (0.9s): no face detected
+20:01:28.954 (0.9s): no face detected
+20:01:28.984 (0.9s): no face detected
+20:01:29.016 (1.0s): no face detected
+20:01:29.045 (1.0s): no face detected
+20:01:29.108 (1.0s): no face detected
+20:01:29.139 (1.1s): no face detected
+20:01:29.171 (1.1s): no face detected
+20:01:29.202 (1.1s): no face detected
+20:01:29.233 (1.2s): no face detected
+20:01:29.265 (1.2s): no face detected
+20:01:29.296 (1.2s): no face detected
+20:01:29.328 (1.3s): no face detected
+20:01:29.360 (1.3s): no face detected
+20:01:29.391 (1.3s): no face detected
+20:01:29.422 (1.4s): no face detected
+20:01:29.453 (1.4s): no face detected
+20:01:29.498 (1.4s): no face detected
+20:01:29.529 (1.5s): no face detected
+20:01:29.562 (1.5s): no face detected
+20:01:29.592 (1.5s): no face detected
+20:01:29.622 (1.6s): no face detected
+20:01:29.655 (1.6s): no face detected
+20:01:29.685 (1.6s): no face detected
+20:01:29.718 (1.7s): no face detected
+20:01:29.750 (1.7s): no face detected
+20:01:29.796 (1.7s): no face detected
+20:01:29.827 (1.8s): no face detected
+20:01:29.858 (1.8s): no face detected
+20:01:29.905 (1.8s): no face detected
+20:01:29.937 (1.9s): no face detected
+20:01:29.968 (1.9s): no face detected
+20:01:29.999 (1.9s): no face detected
+20:01:30.030 (2.0s): no face detected
+20:01:30.062 (2.0s): no face detected
+20:01:30.093 (2.0s): no face detected
+20:01:30.124 (2.1s): no face detected
+20:01:30.156 (2.1s): no face detected
+20:01:30.188 (2.1s): no face detected
+20:01:30.218 (2.2s): no face detected
+20:01:30.247 (2.2s): no face detected
+20:01:30.295 (2.2s): no face detected
+20:01:30.326 (2.3s): no face detected
+20:01:30.356 (2.3s): no face detected
+20:01:30.388 (2.3s): no face detected
+20:01:30.418 (2.4s): no face detected
+20:01:30.451 (2.4s): no face detected
+20:01:30.481 (2.4s): no face detected
+20:01:30.513 (2.4s): no face detected
+20:01:30.558 (2.5s): no face detected
+20:01:30.590 (2.5s): no face detected
+20:01:30.621 (2.6s): no face detected
+20:01:30.654 (2.6s): no face detected
+20:01:30.701 (2.6s): no face detected
+20:01:30.732 (2.7s): no face detected
+20:01:30.761 (2.7s): no face detected
+20:01:30.794 (2.7s): no face detected
+20:01:30.825 (2.8s): no face detected
+20:01:30.857 (2.8s): no face detected
+20:01:30.889 (2.8s): no face detected
+20:01:30.919 (2.9s): no face detected
+20:01:30.966 (2.9s): no face detected
+20:01:30.997 (2.9s): no face detected
+20:01:31.028 (3.0s): no face detected
+20:01:31.057 (3.0s): no face detected
+20:01:31.106 (3.0s): no face detected
+20:01:31.138 (3.1s): no face detected
+20:01:31.170 (3.1s): no face detected
+20:01:31.204 (3.1s): no face detected
+20:01:31.233 (3.2s): no face detected
+20:01:31.265 (3.2s): no face detected
+20:01:31.295 (3.2s): no face detected
+20:01:31.327 (3.3s): no face detected
+20:01:31.358 (3.3s): no face detected
+20:01:31.389 (3.3s): no face detected
+20:01:31.421 (3.4s): no face detected
+20:01:31.450 (3.4s): no face detected
+20:01:31.497 (3.4s): no face detected
+20:01:31.531 (3.5s): no face detected
+20:01:31.561 (3.5s): no face detected
+20:01:31.594 (3.5s): no face detected
+20:01:31.625 (3.6s): no face detected
+20:01:31.641 (3.6s): no face detected
+20:01:31.672 (3.6s): no face detected
+20:01:31.705 (3.6s): no face detected
+20:01:31.755 (3.7s): no face detected
+20:01:31.784 (3.7s): no face detected
+20:01:31.817 (3.8s): no face detected
+20:01:31.846 (3.8s): no face detected
+20:01:31.893 (3.8s): no face detected
+20:01:31.925 (3.9s): no face detected
+20:01:31.956 (3.9s): no face detected
+20:01:32.005 (3.9s): no face detected
+20:01:32.035 (4.0s): no face detected
+20:01:32.066 (4.0s): no face detected
+20:01:32.097 (4.0s): no face detected
+20:01:32.129 (4.1s): no face detected
+20:01:32.161 (4.1s): no face detected
+20:01:32.193 (4.1s): no face detected
+20:01:32.224 (4.2s): no face detected
+20:01:32.256 (4.2s): no face detected
+20:01:32.303 (4.2s): no face detected
+20:01:32.337 (4.3s): no face detected
+20:01:32.368 (4.3s): no face detected
+20:01:32.400 (4.3s): no face detected
+20:01:32.431 (4.4s): no face detected
+20:01:32.462 (4.4s): no face detected
+20:01:32.495 (4.4s): no face detected
+20:01:32.542 (4.5s): no face detected
+20:01:32.573 (4.5s): no face detected
+20:01:32.603 (4.5s): no face detected
+20:01:32.636 (4.6s): no face detected
+20:01:32.667 (4.6s): no face detected
+20:01:32.698 (4.6s): no face detected
+20:01:32.728 (4.7s): no face detected
+20:01:32.762 (4.7s): no face detected
+20:01:32.793 (4.7s): no face detected
+20:01:32.825 (4.8s): no face detected
+20:01:32.857 (4.8s): no face detected
+20:01:32.888 (4.8s): no face detected
+20:01:32.949 (4.9s): no face detected
+20:01:32.980 (4.9s): no face detected
+20:01:33.012 (4.9s): no face detected
+20:01:33.045 (5.0s): no face detected
+20:01:33.076 (5.0s): no face detected
+20:01:33.108 (5.0s): no face detected
+20:01:33.140 (5.1s): no face detected
+20:01:33.171 (5.1s): no face detected
+20:01:33.222 (5.1s): looking far-right-far-down
+20:01:33.255 (5.2s): looking far-right-far-down
+20:01:34.261 (6.2s): no face detected
+20:01:34.293 (6.2s): no face detected
+20:01:34.323 (6.3s): no face detected
+20:01:34.371 (6.3s): no face detected
+20:01:34.401 (6.3s): no face detected
+20:01:34.431 (6.4s): no face detected
+20:01:34.462 (6.4s): no face detected
+20:01:34.495 (6.4s): no face detected
+20:01:34.541 (6.5s): no face detected
+20:01:34.573 (6.5s): no face detected
+20:01:34.604 (6.5s): no face detected
+20:01:34.635 (6.6s): no face detected
+20:01:34.667 (6.6s): no face detected
+20:01:34.698 (6.6s): no face detected
+20:01:34.729 (6.7s): no face detected
+20:01:34.761 (6.7s): no face detected
+20:01:34.794 (6.7s): no face detected
+20:01:34.824 (6.8s): no face detected
+20:01:34.871 (6.8s): no face detected
+20:01:34.902 (6.8s): no face detected
+20:01:34.933 (6.9s): no face detected
+20:01:34.980 (6.9s): no face detected
+20:01:35.010 (6.9s): no face detected
+20:01:35.042 (7.0s): no face detected
+20:01:35.072 (7.0s): no face detected
+20:01:35.103 (7.0s): no face detected
+20:01:35.135 (7.1s): no face detected
+20:01:35.165 (7.1s): no face detected
+20:01:35.197 (7.1s): no face detected
+20:01:35.229 (7.2s): no face detected
+20:01:35.264 (7.2s): looking far-right-far-down
+20:01:35.296 (7.2s): looking far-right-far-down
+20:01:35.342 (7.3s): looking far-right-far-down
+20:01:35.375 (7.3s): looking far-right-far-down
+20:01:35.405 (7.3s): looking far-right-far-down
+20:01:35.439 (7.4s): blinking
+20:01:35.470 (7.4s): looking far-right-far-down
+20:01:35.500 (7.4s): looking far-right-far-down
+20:01:35.530 (7.5s): looking far-right-far-down
+20:01:35.561 (7.5s): looking far-right-far-down
+20:01:35.842 (7.8s): looking far-right-far-down
+20:01:35.889 (7.8s): looking far-right-far-down
+20:01:35.920 (7.9s): looking far-right-far-down
+20:01:35.999 (7.9s): blinking
+20:01:36.465 (8.4s): blinking
+20:01:36.497 (8.4s): blinking
+20:01:36.545 (8.5s): eyes closed
+20:01:36.575 (8.5s): blinking
+20:01:36.606 (8.5s): blinking
+20:01:36.638 (8.6s): blinking
+20:01:36.670 (8.6s): blinking
+20:01:36.703 (8.6s): looking far-right-far-down
+20:01:36.733 (8.7s): looking far-right-far-down
+20:01:36.763 (8.7s): blinking
+20:01:36.796 (8.7s): blinking
+20:01:36.825 (8.8s): blinking
+20:01:37.043 (9.0s): looking far-right-far-down
+20:01:37.075 (9.0s): blinking
+20:01:37.105 (9.0s): looking far-right-far-down
+20:01:37.135 (9.1s): blinking
+20:01:37.167 (9.1s): blinking
+20:01:37.199 (9.1s): blinking
+20:01:37.387 (9.3s): blinking
+20:01:37.416 (9.4s): blinking
+20:01:38.070 (10.0s): blinking
+20:01:38.103 (10.0s): blinking
+20:01:38.464 (10.4s): blinking
+20:01:38.494 (10.4s): blinking
+20:01:38.571 (10.5s): blinking
+20:01:38.601 (10.5s): blinking
+20:01:38.633 (10.6s): looking far-right-far-down
+20:01:38.664 (10.6s): looking far-right-far-down
+20:01:38.695 (10.6s): looking far-right-far-down
+20:01:38.727 (10.7s): blinking
+20:01:38.759 (10.7s): looking far-right-far-down
+20:01:38.806 (10.7s): blinking
+20:01:38.836 (10.8s): looking far-right-far-down
+20:01:38.867 (10.8s): looking far-right-far-down
+20:01:38.898 (10.8s): looking far-right-far-down
+20:01:38.946 (10.9s): looking far-right-far-down
+20:01:38.978 (10.9s): looking far-right-far-down
+20:01:39.008 (10.9s): looking far-right-far-down
+20:01:39.039 (11.0s): looking far-right-far-down
+20:01:39.070 (11.0s): blinking
+20:01:39.103 (11.0s): looking far-right-far-down
+20:01:39.133 (11.1s): blinking
+20:01:39.165 (11.1s): looking far-right-far-down
+20:01:39.195 (11.1s): looking far-right-far-down
+20:01:39.226 (11.2s): looking far-right-far-down
+20:01:39.258 (11.2s): looking far-right-far-down
+20:01:39.290 (11.2s): looking far-right-far-down
+20:01:39.337 (11.3s): looking far-right-far-down
+20:01:39.367 (11.3s): looking far-right-far-down
+20:01:39.398 (11.3s): looking far-right-far-down
+20:01:39.430 (11.4s): looking far-right-far-down
+20:01:39.492 (11.4s): looking far-right-far-down
+20:01:39.523 (11.5s): looking far-right-far-down
+20:01:39.632 (11.6s): looking far-right-far-down
+20:01:39.976 (11.9s): looking far-right-far-down
+20:01:40.037 (12.0s): looking far-right-far-down
+20:01:40.069 (12.0s): looking far-right-far-down
+20:01:40.101 (12.0s): looking far-right-far-down
+20:01:40.147 (12.1s): blinking
+20:01:40.257 (12.2s): blinking
+20:01:40.663 (12.6s): blinking
+20:01:40.693 (12.6s): blinking
+20:01:40.769 (12.7s): blinking
+20:01:40.942 (12.9s): blinking
+20:01:41.161 (13.1s): blinking
+20:01:42.036 (14.0s): eyes closed
+20:01:42.066 (14.0s): eyes closed
+20:01:42.097 (14.0s): eyes closed
+20:01:42.144 (14.1s): blinking
+20:01:42.176 (14.1s): blinking
+20:01:42.190 (14.1s): blinking
+20:01:42.223 (14.2s): blinking
+20:01:42.254 (14.2s): blinking
+20:01:42.285 (14.2s): blinking
+20:01:42.332 (14.3s): blinking
+20:01:42.379 (14.3s): blinking
+20:01:42.411 (14.3s): blinking
+20:01:42.441 (14.4s): looking far-right-far-down
+20:01:42.472 (14.4s): looking far-right-far-down
+20:01:42.503 (14.4s): looking far-right-far-down
+20:01:42.551 (14.5s): looking far-right-far-down
+20:01:42.582 (14.5s): looking far-right-far-down
+20:01:42.613 (14.5s): looking far-right-far-down
+20:01:42.643 (14.6s): looking far-right-far-down
+20:01:42.674 (14.6s): looking far-right-far-down
+20:01:42.705 (14.6s): looking far-right-far-down
+20:01:42.738 (14.7s): looking far-right-far-down
+20:01:42.782 (14.7s): looking far-right-far-down
+20:01:42.813 (14.7s): looking far-right-far-down
+20:01:42.858 (14.8s): looking far-right-far-down
+20:01:42.891 (14.8s): looking far-right-far-down
+20:01:42.922 (14.9s): looking far-right-far-down
+20:01:42.968 (14.9s): looking far-right-far-down
+20:01:43.014 (14.9s): looking far-right-far-down
+20:01:43.062 (15.0s): looking far-right-far-down
+20:01:43.106 (15.0s): looking far-right-far-down
+20:01:43.138 (15.1s): looking far-right-far-down
+20:01:43.170 (15.1s): looking far-right-far-down
+20:01:43.202 (15.1s): looking far-right-far-down
+20:01:43.233 (15.2s): looking far-right-far-down
+20:01:43.264 (15.2s): looking far-right-far-down
+20:01:43.311 (15.2s): looking far-right-far-down
+20:01:43.344 (15.3s): looking far-right-far-down
+20:01:43.391 (15.3s): looking far-right-far-down
+20:01:43.421 (15.3s): looking far-right-far-down
+20:01:43.453 (15.4s): looking far-right-far-down
+20:01:43.484 (15.4s): looking far-right-far-down
+20:01:43.530 (15.5s): looking far-right-far-down
+20:01:43.563 (15.5s): looking far-right-far-down
+20:01:43.592 (15.5s): looking far-right-far-down
+20:01:43.624 (15.6s): looking far-right-far-down
+20:01:43.670 (15.6s): looking far-right-far-down
+20:01:43.703 (15.6s): looking far-right-far-down
+20:01:43.749 (15.7s): looking far-right-far-down
+20:01:43.781 (15.7s): looking far-right-far-down
+20:01:43.813 (15.7s): looking far-right-far-down
+20:01:43.860 (15.8s): looking far-right-far-down
+20:01:43.905 (15.8s): looking far-right-far-down
+20:01:43.936 (15.9s): looking far-right-far-down
+20:01:43.969 (15.9s): looking far-right-far-down
+20:01:43.999 (15.9s): looking far-right-far-down
+20:01:44.029 (16.0s): looking far-right-far-down
+20:01:44.063 (16.0s): looking far-right-far-down
+20:01:44.092 (16.0s): looking far-right-far-down
+20:01:44.124 (16.1s): looking far-right-far-down
+20:01:44.155 (16.1s): looking far-right-far-down
+20:01:44.186 (16.1s): looking far-right-far-down
+20:01:44.216 (16.1s): looking far-right-far-down
+20:01:44.247 (16.2s): looking far-right-far-down
+20:01:44.278 (16.2s): looking far-right-far-down
+20:01:44.308 (16.2s): looking far-right-far-down
+20:01:44.339 (16.3s): looking far-right-far-down
+20:01:44.371 (16.3s): blinking
+20:01:44.403 (16.3s): blinking
+20:01:44.435 (16.4s): blinking
+20:01:44.466 (16.4s): blinking
+20:01:44.496 (16.4s): blinking
+20:01:44.543 (16.5s): blinking
+20:01:44.574 (16.5s): blinking
+20:01:44.606 (16.5s): blinking
+20:01:44.636 (16.6s): blinking
+20:01:44.668 (16.6s): blinking
+20:01:44.699 (16.6s): blinking
+20:01:44.730 (16.7s): blinking
+20:01:44.762 (16.7s): looking far-right-far-down
+20:01:44.811 (16.7s): blinking
+20:01:44.859 (16.8s): looking far-right-far-down
+20:01:44.906 (16.8s): looking far-right-far-down
+20:01:44.936 (16.9s): looking far-right-far-down
+20:01:44.983 (16.9s): looking far-right-far-down
+20:01:45.015 (16.9s): looking far-right-far-down
+20:01:45.061 (17.0s): looking far-right-far-down
+20:01:45.107 (17.0s): looking far-right-far-down
+20:01:45.153 (17.1s): looking far-right-far-down
+20:01:45.200 (17.1s): looking far-right-far-down
+20:01:45.247 (17.2s): looking far-right-far-down
+20:01:45.278 (17.2s): looking far-right-far-down
+20:01:45.326 (17.3s): looking far-right-far-down
+20:01:45.372 (17.3s): looking far-right-far-down
+20:01:45.420 (17.3s): looking far-right-far-down
+20:01:45.468 (17.4s): looking far-right-far-down
+20:01:45.514 (17.4s): looking far-right-far-down
+20:01:45.559 (17.5s): looking far-right-far-down
+20:01:45.592 (17.5s): looking far-right-far-down
+20:01:45.622 (17.6s): looking far-right-far-down
+20:01:45.668 (17.6s): looking far-right-far-down
+20:01:45.715 (17.6s): looking far-right-far-down
+20:01:45.748 (17.7s): looking far-right-far-down
+20:01:45.794 (17.7s): looking far-right-far-down
+20:01:45.841 (17.8s): looking far-right-far-down
+20:01:45.888 (17.8s): looking far-right-far-down
+20:01:45.920 (17.8s): looking far-right-far-down
+20:01:45.967 (17.9s): looking far-right-far-down
+20:01:46.013 (17.9s): looking far-right-far-down
+20:01:46.061 (18.0s): looking far-right-far-down
+20:01:46.109 (18.0s): looking far-right-far-down
+20:01:46.141 (18.1s): looking far-right-far-down
+20:01:46.188 (18.1s): looking far-right-far-down
+20:01:46.219 (18.1s): looking far-right-far-down
+20:01:46.250 (18.2s): looking far-right-far-down
+20:01:46.295 (18.2s): looking far-right-far-down
+20:01:46.343 (18.3s): looking far-right-far-down
+20:01:46.390 (18.3s): looking far-right-far-down
+20:01:46.434 (18.4s): looking far-right-far-down
+20:01:46.482 (18.4s): looking far-right-far-down
+20:01:46.527 (18.5s): looking far-right-far-down
+20:01:46.559 (18.5s): looking far-right-far-down
+20:01:46.606 (18.5s): looking far-right-far-down
+20:01:46.638 (18.6s): looking far-right-far-down
+20:01:46.683 (18.6s): looking far-right-far-down
+20:01:46.730 (18.7s): looking far-right-far-down
+20:01:46.763 (18.7s): looking far-right-far-down
+20:01:46.809 (18.7s): looking far-right-far-down
+20:01:46.856 (18.8s): looking far-right-far-down
+20:01:46.903 (18.8s): looking far-right-far-down
+20:01:46.935 (18.9s): looking far-right-far-down
+20:01:46.981 (18.9s): looking far-right-far-down
+20:01:47.027 (19.0s): looking far-right-far-down
+20:01:47.058 (19.0s): looking far-right-far-down
+20:01:47.106 (19.0s): looking far-right-far-down
+20:01:47.153 (19.1s): looking far-right-far-down
+20:01:47.199 (19.1s): looking far-right-far-down
+20:01:47.245 (19.2s): looking far-right-far-down
+20:01:47.276 (19.2s): looking far-right-far-down
+20:01:47.308 (19.2s): looking far-right-far-down
+20:01:47.353 (19.3s): looking far-right-far-down
+20:01:47.400 (19.3s): blinking
+20:01:47.446 (19.4s): looking far-right-far-down
+20:01:47.493 (19.4s): looking far-right-far-down
+20:01:47.523 (19.5s): looking far-right-far-down
+20:01:47.569 (19.5s): blinking
+20:01:47.616 (19.5s): blinking
+20:01:47.662 (19.6s): blinking
+20:01:47.709 (19.6s): blinking
+20:01:47.757 (19.7s): blinking
+20:01:47.804 (19.7s): blinking
+20:01:47.835 (19.8s): blinking
+20:01:47.884 (19.8s): blinking
+20:01:47.930 (19.9s): blinking
+20:01:47.964 (19.9s): looking far-right-far-down
+20:01:48.012 (19.9s): looking far-right-far-down
+20:01:48.056 (20.0s): looking far-right-far-down
+20:01:48.087 (20.0s): looking far-right-far-down
+20:01:48.119 (20.0s): looking far-right-far-down
+20:01:48.166 (20.1s): looking far-right-far-down
+20:01:48.213 (20.1s): looking far-right-far-down
+20:01:48.258 (20.2s): looking far-right-far-down
+20:01:48.290 (20.2s): looking far-right-far-down
+20:01:48.335 (20.3s): looking far-right-far-down
+20:01:48.368 (20.3s): looking far-right-far-down
+20:01:48.416 (20.3s): looking far-right-far-down
+20:01:48.461 (20.4s): looking far-right-far-down
+20:01:48.493 (20.4s): looking far-right-far-down
+20:01:48.524 (20.5s): looking far-right-far-down
+20:01:48.570 (20.5s): looking far-right-far-down
+20:01:48.603 (20.5s): looking far-right-far-down
+20:01:48.636 (20.6s): looking far-right-far-down
+20:01:48.672 (20.6s): looking far-right-far-down
+20:01:48.701 (20.6s): looking far-right-far-down
+20:01:48.750 (20.7s): looking far-right-far-down
+20:01:48.775 (20.7s): looking far-right-far-down
+20:01:48.807 (20.7s): looking far-right-far-down
+20:01:48.822 (20.8s): looking far-right-far-down
+20:01:48.862 (20.8s): eyes closed
+20:01:48.889 (20.8s): eyes closed
+20:01:48.928 (20.9s): blinking
+20:01:48.958 (20.9s): looking far-right-far-down
+20:01:48.988 (20.9s): looking far-right-far-down
+20:01:49.040 (21.0s): looking far-right-far-down
+20:01:49.072 (21.0s): looking far-right-far-down
+20:01:49.102 (21.0s): blinking
+20:01:49.152 (21.1s): looking far-right-far-down
+20:01:49.181 (21.1s): looking far-right-far-down
+20:01:49.213 (21.1s): looking far-right-far-down
+20:01:49.244 (21.2s): looking far-right-far-down
+20:01:49.277 (21.2s): looking far-right-far-down
+20:01:49.308 (21.2s): looking far-right-far-down
+20:01:49.339 (21.3s): looking far-right-far-down
+20:01:49.372 (21.3s): looking far-right-far-down
+20:01:49.391 (21.3s): looking far-right-far-down
+20:01:49.440 (21.4s): looking far-right-far-down
+20:01:49.471 (21.4s): looking far-right-far-down
+20:01:49.693 (21.6s): blinking
+20:01:49.723 (21.7s): looking far-right-far-down
+20:01:49.754 (21.7s): looking far-right-far-down
+20:01:49.794 (21.7s): looking far-right-far-down
+20:01:49.840 (21.8s): looking far-right-far-down
+20:01:49.869 (21.8s): looking far-right-far-down
+20:01:49.899 (21.8s): looking far-right-far-down
+20:01:49.936 (21.9s): looking far-right-far-down
+20:01:49.965 (21.9s): looking far-right-far-down
+20:01:49.992 (21.9s): looking far-right-far-down
+20:01:50.025 (22.0s): looking far-right-far-down
+20:01:50.057 (22.0s): looking far-right-far-down
+20:01:50.097 (22.0s): looking far-right-far-down
+20:01:50.128 (22.1s): looking far-right-far-down
+20:01:50.157 (22.1s): looking far-right-far-down
+20:01:50.193 (22.1s): looking far-right-far-down
+20:01:50.222 (22.1s): blinking
+20:01:50.274 (22.2s): looking far-right-far-down
+20:01:50.307 (22.2s): looking far-right-far-down
+20:01:50.338 (22.3s): looking far-right-far-down
+20:01:50.370 (22.3s): looking far-right-far-down
+20:01:50.401 (22.3s): looking far-right-far-down
+20:01:50.446 (22.4s): looking far-right-far-down
+20:01:50.480 (22.4s): looking far-right-far-down
+20:01:50.511 (22.4s): looking far-right-far-down
+20:01:50.543 (22.5s): looking far-right-far-down
+20:01:50.575 (22.5s): looking far-right-far-down
+20:01:50.592 (22.5s): looking far-right-far-down
+20:01:50.621 (22.5s): looking far-right-far-down
+20:01:50.667 (22.6s): looking far-right-far-down
+20:01:50.703 (22.6s): looking far-right-far-down
+20:01:50.731 (22.7s): looking far-right-far-down
+20:01:50.766 (22.7s): looking far-right-far-down
+20:01:50.796 (22.7s): looking far-right-far-down
+20:01:50.846 (22.8s): looking far-right-far-down
+20:01:50.868 (22.8s): looking far-right-far-down
+20:01:50.899 (22.8s): looking far-right-far-down
+20:01:50.930 (22.9s): looking far-right-far-down
+20:01:50.965 (22.9s): looking far-right-far-down
+20:01:50.996 (22.9s): looking far-right-far-down
+20:01:51.024 (23.0s): looking far-right-far-down
+20:01:51.070 (23.0s): looking far-right-far-down
+20:01:51.106 (23.0s): looking far-right-far-down
+20:01:51.137 (23.1s): looking far-right-far-down
+20:01:51.164 (23.1s): looking far-right-far-down
+20:01:51.203 (23.1s): looking far-right-far-down
+20:01:51.245 (23.2s): looking far-right-far-down
+20:01:51.276 (23.2s): looking far-right-far-down
+20:01:51.308 (23.2s): looking far-right-far-down
+20:01:51.337 (23.3s): looking far-right-far-down
+20:01:51.371 (23.3s): looking far-right-far-down
+20:01:51.403 (23.3s): looking far-right-far-down
+20:01:51.432 (23.4s): looking far-right-far-down
+20:01:51.471 (23.4s): looking far-right-far-down
+20:01:51.506 (23.4s): looking far-right-far-down
+20:01:51.541 (23.5s): looking far-right-far-down
+20:01:51.572 (23.5s): looking far-right-far-down
+20:01:51.604 (23.5s): looking far-right-far-down
+20:01:51.647 (23.6s): looking far-right-far-down
+20:01:51.681 (23.6s): looking far-right-far-down
+20:01:51.712 (23.6s): looking far-right-far-down
+20:01:51.743 (23.7s): looking far-right-far-down
+20:01:51.775 (23.7s): looking far-right-far-down
+20:01:51.803 (23.7s): looking far-right-far-down
+20:01:51.835 (23.8s): looking far-right-far-down
+20:01:51.872 (23.8s): looking far-right-far-down
+20:01:51.902 (23.8s): looking far-right-far-down
+20:01:51.931 (23.9s): looking far-right-far-down
+20:01:51.959 (23.9s): looking far-right-far-down
+20:01:51.983 (23.9s): looking far-right-far-down
+20:01:52.010 (23.9s): looking far-right-far-down
+20:01:52.047 (24.0s): looking far-right-far-down
+20:01:52.091 (24.0s): looking far-right-far-down
+20:01:52.127 (24.1s): looking far-right-far-down
+20:01:52.157 (24.1s): looking far-right-far-down
+20:01:52.191 (24.1s): looking far-right-far-down
+20:01:52.239 (24.2s): blinking
+20:01:52.271 (24.2s): blinking
+20:01:52.304 (24.2s): blinking
+20:01:52.336 (24.3s): blinking
+20:01:52.366 (24.3s): blinking
+20:01:52.398 (24.3s): eyes closed
+20:01:52.431 (24.4s): eyes closed
+20:01:52.461 (24.4s): eyes closed
+20:01:52.499 (24.4s): eyes closed
+20:01:52.526 (24.5s): eyes closed
+20:01:52.573 (24.5s): eyes closed
+20:01:52.605 (24.5s): eyes closed
+20:01:52.637 (24.6s): eyes closed
+20:01:52.687 (24.6s): eyes closed
+20:01:52.709 (24.6s): eyes closed
+20:01:52.742 (24.7s): eyes closed
+20:01:52.772 (24.7s): eyes closed
+20:01:52.803 (24.7s): eyes closed
+20:01:52.834 (24.8s): eyes closed
+20:01:52.866 (24.8s): eyes closed
+20:01:52.896 (24.8s): eyes closed
+20:01:52.939 (24.9s): eyes closed
+20:01:52.975 (24.9s): eyes closed
+20:01:53.008 (24.9s): eyes closed
+20:01:53.039 (25.0s): eyes closed
+20:01:53.056 (25.0s): eyes closed
+20:01:53.087 (25.0s): eyes closed
+20:01:53.131 (25.1s): eyes closed
+20:01:53.164 (25.1s): eyes closed
+20:01:53.201 (25.1s): eyes closed
+20:01:53.230 (25.2s): eyes closed
+20:01:53.261 (25.2s): blinking
+20:01:53.288 (25.2s): blinking
+20:01:53.342 (25.3s): blinking
+20:01:53.378 (25.3s): blinking
+20:01:53.401 (25.3s): blinking
+20:01:53.433 (25.4s): blinking
+20:01:53.463 (25.4s): blinking
+20:01:53.503 (25.4s): blinking
+20:01:53.535 (25.5s): blinking
+20:01:53.571 (25.5s): looking far-right-far-down
+20:01:53.605 (25.5s): looking far-right-far-down
+20:01:53.647 (25.6s): looking far-right-far-down
+20:01:53.681 (25.6s): looking far-right-far-down
+20:01:53.712 (25.6s): looking far-right-far-down
+20:01:53.745 (25.7s): looking far-right-far-down
+20:01:53.773 (25.7s): looking far-right-far-down
+20:01:53.806 (25.7s): looking far-right-far-down
+20:01:53.836 (25.8s): looking far-right-far-down
+20:01:53.874 (25.8s): looking far-right-far-down
+20:01:53.903 (25.8s): looking far-right-far-down
+20:01:53.940 (25.9s): looking far-right-far-down
+20:01:53.969 (25.9s): looking far-right-far-down
+20:01:53.998 (25.9s): looking far-right-far-down
+20:01:54.024 (25.9s): looking far-right-far-down
+20:01:54.055 (26.0s): looking far-right-far-down
+20:01:54.086 (26.0s): looking far-right-far-down
+20:01:54.116 (26.0s): blinking
+20:01:54.160 (26.1s): blinking
+20:01:54.193 (26.1s): blinking
+20:01:54.224 (26.2s): blinking
+20:01:54.258 (26.2s): blinking
+20:01:54.302 (26.2s): blinking
+20:01:54.338 (26.3s): blinking
+20:01:54.366 (26.3s): blinking
+20:01:54.396 (26.3s): blinking
+20:01:54.428 (26.4s): blinking
+20:01:54.446 (26.4s): blinking
+20:01:54.477 (26.4s): blinking
+20:01:54.513 (26.4s): blinking
+20:01:54.558 (26.5s): looking far-right-far-down
+20:01:54.595 (26.5s): looking far-right-far-down
+20:01:54.625 (26.5s): looking far-right-far-down
+20:01:54.676 (26.6s): looking far-right-far-down
+20:01:54.705 (26.6s): blinking
+20:01:54.734 (26.7s): blinking
+20:01:54.770 (26.7s): looking far-right-far-down
+20:01:54.800 (26.7s): looking far-right-far-down
+20:01:54.825 (26.8s): looking far-right-far-down
+20:01:54.854 (26.8s): blinking
+20:01:54.884 (26.8s): looking far-right-far-down
+20:01:54.915 (26.8s): looking far-right-far-down
+20:01:54.956 (26.9s): looking far-right-far-down
+20:01:54.986 (26.9s): looking far-right-far-down
+20:01:55.023 (27.0s): looking far-right-far-down
+20:01:55.066 (27.0s): blinking
+20:01:55.103 (27.0s): looking far-right-far-down
+20:01:55.135 (27.1s): blinking
+20:01:55.164 (27.1s): blinking
+20:01:55.198 (27.1s): looking far-right-far-down
+20:01:55.225 (27.2s): looking far-right-far-down
+20:01:55.243 (27.2s): blinking
+20:01:55.280 (27.2s): blinking
+20:01:55.308 (27.2s): looking far-right-far-down
+20:01:55.359 (27.3s): looking far-right-far-down
+20:01:55.389 (27.3s): looking far-right-far-down
+20:01:55.423 (27.4s): looking far-right-far-down
+20:01:55.467 (27.4s): looking far-right-far-down
+20:01:55.506 (27.4s): looking far-right-far-down
+20:01:55.536 (27.5s): looking far-right-far-down
+20:01:55.567 (27.5s): looking far-right-far-down
+20:01:55.603 (27.5s): looking far-right-far-down
+20:01:55.635 (27.6s): looking far-right-far-down
+20:01:55.668 (27.6s): looking far-right-far-down
+20:01:55.699 (27.6s): looking far-right-far-down
+20:01:55.729 (27.7s): looking far-right-far-down
+20:01:55.761 (27.7s): looking far-right-far-down
+20:01:55.793 (27.7s): looking far-right-far-down
+20:01:55.826 (27.8s): looking far-right-far-down
+20:01:55.870 (27.8s): looking far-right-far-down
+20:01:55.905 (27.8s): looking far-right-far-down
+20:01:55.937 (27.9s): looking far-right-far-down
+20:01:55.966 (27.9s): looking far-right-far-down
+20:01:56.002 (27.9s): looking far-right-far-down
+20:01:56.027 (28.0s): looking far-right-far-down
+20:01:56.056 (28.0s): looking far-right-far-down
+20:01:56.085 (28.0s): looking far-right-far-down
+20:01:56.118 (28.0s): looking far-right-far-down
+20:01:56.157 (28.1s): looking far-right-far-down
+20:01:56.191 (28.1s): looking far-right-far-down
+20:01:56.221 (28.2s): looking far-right-far-down
+20:01:56.270 (28.2s): looking far-right-far-down
+20:01:56.301 (28.2s): looking far-right-far-down
+20:01:56.332 (28.3s): looking far-right-far-down
+20:01:56.362 (28.3s): looking far-right-far-down
+20:01:56.397 (28.3s): looking far-right-far-down
+20:01:56.444 (28.4s): looking far-right-far-down
+20:01:56.461 (28.4s): looking far-right-far-down
+20:01:56.493 (28.4s): blinking
+20:01:56.510 (28.4s): looking far-right-far-down
+20:01:56.558 (28.5s): looking far-right-far-down
+20:01:56.588 (28.5s): looking far-right-far-down
+20:01:56.622 (28.6s): eyes closed
+20:01:56.653 (28.6s): blinking
+20:01:56.699 (28.6s): looking far-right-far-down
+20:01:56.736 (28.7s): looking far-right-far-down
+20:01:56.765 (28.7s): looking far-right-far-down
+20:01:56.794 (28.7s): looking far-right-far-down
+20:01:56.819 (28.7s): looking far-right-far-down
+20:01:56.850 (28.8s): looking far-right-far-down
+20:01:56.883 (28.8s): blinking
+20:01:56.915 (28.8s): looking far-right-far-down
+20:01:56.955 (28.9s): blinking
+20:01:56.988 (28.9s): looking far-right-far-down
+20:01:57.023 (29.0s): blinking
+20:01:57.067 (29.0s): blinking
+20:01:57.104 (29.0s): looking far-right-far-down
+20:01:57.134 (29.1s): looking far-right-far-down
+20:01:57.162 (29.1s): looking far-right-far-down
+20:01:57.199 (29.1s): blinking
+20:01:57.224 (29.2s): blinking
+20:01:57.256 (29.2s): looking far-right-far-down
+20:01:57.280 (29.2s): blinking
+20:01:57.307 (29.2s): looking far-right-far-down
+20:01:57.360 (29.3s): blinking
+20:01:57.388 (29.3s): blinking
+20:01:57.418 (29.3s): blinking
+20:01:57.470 (29.4s): blinking
+20:01:57.499 (29.4s): blinking
+20:01:57.536 (29.5s): looking far-right-far-down
+20:01:57.567 (29.5s): looking far-right-far-down
+20:01:57.594 (29.5s): looking far-right-far-down
+20:01:57.614 (29.5s): looking far-right-far-down
+20:01:57.647 (29.6s): blinking
+20:01:57.680 (29.6s): blinking
+20:01:57.709 (29.6s): blinking
+20:01:57.758 (29.7s): eyes closed
+20:01:57.790 (29.7s): blinking
+20:01:57.820 (29.7s): looking far-right-far-down
+20:01:57.872 (29.8s): looking far-right-far-down
+20:01:57.903 (29.8s): looking far-right-far-down
+20:01:57.932 (29.9s): looking far-right-far-down
+20:01:57.970 (29.9s): looking far-right-far-down
+20:01:58.000 (29.9s): looking far-right-far-down
+20:01:58.028 (30.0s): looking far-right-far-down
+20:01:58.047 (30.0s): looking far-right-far-down
+
+EMOTION SUMMARY:
+- Angry: 110 instances (20.8% of time), Avg confidence: 60.0%
+- Sad: 352 instances (66.4% of time), Avg confidence: 70.0%
+- Surprise: 68 instances (12.8% of time), Avg confidence: 75.0%
+
+GAZE SUMMARY:
+- No face detected: 184 instances (25.8% of time)
+- Looking right: 373 instances (52.2% of time)
+- Blinking: 123 instances (17.2% of time)
+- Eyes closed: 34 instances (4.8% of time)
+
+LOOKING AWAY INCIDENTS (>1 second):
+- No significant looking away incidents detected
+
+EMOTIONAL TRANSITIONS:

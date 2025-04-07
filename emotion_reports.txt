@@ -1,0 +1,43 @@
+
+--- NEW SESSION STARTED AT 2025-04-07 21:31:29 ---
+
+
+--- EMOTION REPORT (2025-04-07 21:31:59) ---
+Dominant emotion in last 30 seconds: sadness (97.1%)
+Emotion breakdown:
+  - sadness: 168 times (97.1%)
+  - fear: 2 times (1.2%)
+  - neutral: 3 times (1.7%)
+-------------------------------
+
+--- EMOTION REPORT (2025-04-07 21:32:29) ---
+Dominant emotion in last 30 seconds: sadness (93.5%)
+Emotion breakdown:
+  - sadness: 387 times (93.5%)
+  - fear: 1 times (0.2%)
+  - anger: 26 times (6.3%)
+-------------------------------
+
+--- EMOTION REPORT (2025-04-07 21:32:59) ---
+Dominant emotion in last 30 seconds: sadness (91.1%)
+Emotion breakdown:
+  - sadness: 422 times (91.1%)
+  - fear: 4 times (0.9%)
+  - anger: 37 times (8.0%)
+-------------------------------
+
+--- EMOTION REPORT (2025-04-07 21:33:29) ---
+Dominant emotion in last 30 seconds: sadness (93.9%)
+Emotion breakdown:
+  - sadness: 371 times (93.9%)
+  - anger: 24 times (6.1%)
+-------------------------------
+
+--- EMOTION REPORT (2025-04-07 21:33:59) ---
+Dominant emotion in last 30 seconds: sadness (79.8%)
+Emotion breakdown:
+  - anger: 47 times (18.6%)
+  - neutral: 2 times (0.8%)
+  - sadness: 202 times (79.8%)
+  - fear: 2 times (0.8%)
+-------------------------------
